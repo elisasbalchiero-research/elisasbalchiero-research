@@ -52,7 +52,7 @@ In G. Salza & M. Triventi (Eds.), *Disuguaglianze di istruzione. Tendenze, mecca
 
 ## Links
 
-· [Google Scholar](https://scholar.google.com/citations?user=_3yX9PUAAAAJ&hl=it))
+· [Google Scholar](https://scholar.google.com/citations?user=_3yX9PUAAAAJ&hl=it)
 · [ORCID](https://orcid.org/0009-0001-4940-1636)
 · [LinkedIn](https://www.linkedin.com/in/elisa-sbalchiero/)
 · Personal website *(coming soon)*
