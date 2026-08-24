@@ -46,7 +46,7 @@ My methodological interests include **quantitative methods for social science re
 In O. Winkler & M. Olczyk (Eds.), *Educational Integration of Refugees and Newly Arrived Immigrants*. Springer.  
 
 **Sbalchiero, E.**, Fiasconaro, S., & Fedeli, E. (2026).
-[Percorsi formativi ed esiti scolastici delle prime e seconde generazioni in Italia](*forthcoming*)
+[Percorsi formativi ed esiti scolastici delle prime e seconde generazioni in Italia](*forthcoming*).
 In G. Salza & M. Triventi (Eds.), *Disuguaglianze di istruzione. Tendenze, meccanismi e conseguenze*. Il Mulino.
 
 
@@ -62,7 +62,6 @@ In G. Salza & M. Triventi (Eds.), *Disuguaglianze di istruzione. Tendenze, mecca
 
 [elisa.sbalchiero@unimi.it](mailto:elisa.sbalchiero@unimi.it)  
 
-University of Milan  
-
+University of Milan;
 Graduate School in Social and Political Sciences  
 
