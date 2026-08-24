@@ -1,14 +1,17 @@
 # Elisa Sbalchiero
 
-**PhD Researcher in Quantitative Sociology (ERC-CoG research project EDUPOL - EDULab research group)**
+**PhD Researcher in Quantitative Sociology (ERC-CoG research project EDUPOL - EDULab research group)**  
+
 *PhD in Sociology and Methodology of Social Research | University of Milan*
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I am a PhD researcher at the **Graduate School in Social and Political Sciences, University of Milan**. My research focuses on educational inequalities, social stratification and mobility, as well as educational reforms and school-level interventions, with particular attention to inequalities associated with students’ social and migration backgrounds.
+I am a PhD researcher at the **Graduate School in Social and Political Sciences, University of Milan**. My research focuses on educational inequalities, social stratification and mobility, as well as educational reforms and school-level interventions, with particular attention to inequalities associated with students’ social and migration backgrounds.  
 
-My current research investigates how **school contexts, resources, and education policies** shape inequalities in educational opportunities and academic achievement, both in Italy and comparatively across European countries.
+
+My current research investigates how **school contexts, resources, and education policies** shape inequalities in educational opportunities and academic achievement, both in Italy and comparatively across European countries.  
+
 
 My methodological interests include **quantitative methods for social science research**, particularly longitudinal and multilevel methods.
 
@@ -40,7 +43,11 @@ My methodological interests include **quantitative methods for social science re
 
 **Sbalchiero, E.**, Fedeli, E., & Triventi, M. (2026).  
 [Bridging or Widening the Gap? High School Resources and Achievement Gaps Across Migration Backgrounds in Italy](https://doi.org/10.1007/978-3-032-25346-0_9).  
-In O. Winkler & M. Olczyk (Eds.), *Educational Integration of Refugees and Newly Arrived Immigrants*. Springer.
+In O. Winkler & M. Olczyk (Eds.), *Educational Integration of Refugees and Newly Arrived Immigrants*. Springer.  
+
+**Sbalchiero, E.**, Fiasconaro, S., & Fedeli, E. (2026).
+[Percorsi formativi ed esiti scolastici delle prime e seconde generazioni in Italia](*forthcoming*)
+In G. Salza & M. Triventi (Eds.), *Disuguaglianze di istruzione. Tendenze, meccanismi e conseguenze*. Il Mulino.
 
 
 ## Links
@@ -53,6 +60,9 @@ In O. Winkler & M. Olczyk (Eds.), *Educational Integration of Refugees and Newly
 
 ## Contact
 
-[elisa.sbalchiero@unimi.it](mailto:elisa.sbalchiero@unimi.it)
-University of Milan
+[elisa.sbalchiero@unimi.it](mailto:elisa.sbalchiero@unimi.it)  
+
+University of Milan  
+
 Graduate School in Social and Political Sciences  
+
