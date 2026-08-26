@@ -7,7 +7,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I am a PhD researcher at the **Graduate School in Social and Political Sciences, University of Milan**. My research focuses on educational inequalities, social stratification and mobility, as well as educational reforms and school-level interventions, with particular attention to inequalities associated with students’ social and migration backgrounds.  
+I am a PhD researcher at the **Graduate School in Social and Political Sciences, University of Milan**. My research focuses on educational inequalities, drawing on the sociological fields of social stratification and mobility, as well as on educational reforms and school-level interventions, with particular attention to inequalities associated with students’ social and migration backgrounds.
 
 
 My current research investigates how **school contexts, resources, and education policies** shape inequalities in educational opportunities and academic achievement, both in Italy and comparatively across European countries.  
