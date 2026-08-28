@@ -45,7 +45,7 @@ My methodological interests include quantitative methods for social science rese
 [Bridging or Widening the Gap? High School Resources and Achievement Gaps Across Migration Backgrounds in Italy](https://doi.org/10.1007/978-3-032-25346-0_9).  
 In O. Winkler & M. Olczyk (Eds.), *Educational Integration of Refugees and Newly Arrived Immigrants*. Springer.  
 
-**Sbalchiero, E.**, Fiasconaro, S., & Fedeli, E. (2026).
+**Sbalchiero, E.**, Fiasconaro, S., & Fedeli, E. (2026, forthcoming).
 [Percorsi formativi ed esiti scolastici delle prime e seconde generazioni in Italia](*forthcoming*).
 In G. Salza & M. Triventi (Eds.), *Disuguaglianze di istruzione. Tendenze, meccanismi e conseguenze*. Il Mulino.
 
