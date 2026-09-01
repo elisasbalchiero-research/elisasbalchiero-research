@@ -35,8 +35,8 @@ My methodological interests include quantitative methods for social science rese
 
 **Work-in-progress**
 - "Can Schools Act as Equalizers? Investigating the Role of School Resources in Shaping Academic Achievement Inequalities by Social Background in Italian Primary Education" (solo-author)
-- "Supporting the Academic Achievement of Disadvantaged Students: From Unequal Learning Trajectories to Targeted Interventions in Lower Secondary Education in Italy" (solo-author)
-- "School Environments, Track Placement, and Achievement Gains: Identifying the Drivers of the Academic Track Advantage in Italy" co-authored with Balzaretti, F., Fedeli, E., and Triventi, M.
+- "Supporting Academic Achievement Along the Educational Pathway: Unequal Learning Trajectories by Students’ Social and Migration Backgrounds and Targeted Interventions in Lower Secondary Education in Italy" (solo-author)
+- "Track Placement, School Environments, and Achievement Gains: Identifying the Drivers of the Academic Track Advantage in Italy" co-authored with Balzaretti, F., Fedeli, E., and Triventi, M.
   
 
 ## Publications
