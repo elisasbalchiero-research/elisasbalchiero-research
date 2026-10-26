@@ -34,13 +34,15 @@ My methodological interests include quantitative methods for social science rese
 *Education Policies for Equity and Inclusion: Diffusion Across Europe and Consequences for Student Outcomes*
 
 **Work-in-progress**
+
 - "Can School Provisions Act as Equalizers? Investigating the Role of School Resources in Shaping Academic Achievement Inequalities by Social Background in Italian Primary Education" (solo-author)
+  
 - "Supporting Academic Achievement Along the Educational Pathway: Unequal Learning Trajectories by Students’ Social and Migration Backgrounds and Targeted Interventions in Lower Secondary Education in Italy" (solo-author)
   
 
 ## Publications
 
-**Sbalchiero, E., Balzaretti, F., Fedeli, E., & Triventi, M. (2026). [Track Placement, School Environments, and Achievement Gains: Identifying the Drivers of the Academic Track Advantage in Italy](*forthcoming*), *Large-scale Assessments in Education*.
+**Sbalchiero, E.**, Balzaretti, F., Fedeli, E., & Triventi, M. (2026). [Track Placement, School Environments, and Achievement Gains: Identifying the Drivers of the Academic Track Advantage in Italy](*forthcoming*), *Large-scale Assessments in Education*.
 
 **Sbalchiero, E.**, Fedeli, E., & Triventi, M. (2026).  
 [Bridging or Widening the Gap? High School Resources and Achievement Gaps Across Migration Backgrounds in Italy](https://doi.org/10.1007/978-3-032-25346-0_9).  
