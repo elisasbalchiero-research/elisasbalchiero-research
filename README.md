@@ -10,7 +10,7 @@
 I am a PhD researcher at the Graduate School in Social and Political Sciences, University of Milan. My research focuses on educational inequalities, drawing on the sociological field of social stratification and mobility, as well as on educational policies and school-level interventions.
 I'm specifically concerned with examining social inequality in cognitive skill development, acquisition, and in studying academic achievement disparities along the educational trajectory.
 
-I will also focus on civic competencies, the role of intercultural education, and the relationship between democracy and education, concerned with the potential emergence, persistence, or weakening of inequalities associated with students’ social and migration backgrounds.
+I will also focus on civic competencies, the role of intercultural education, and the relationship between democracy and education, concerned with the potential emergence, persistence, or weakening of disparities in civic skills attainment associated with students’ social and migration backgrounds.
 
 My current research investigates how school contexts, resources, and inclusive or targeted educational policies shape inequalities in educational opportunities and academic achievement, both in Italy and comparatively across European countries. Both the school and the national level will be considered.
 
