@@ -61,15 +61,22 @@ In G. Salza & M. Triventi (Eds.), *Disuguaglianze di istruzione. Tendenze, mecca
 ## Links
 
 · [Google Scholar](https://scholar.google.com/citations?user=_3yX9PUAAAAJ&hl=it)
+
 · [ORCID](https://orcid.org/0009-0001-4940-1636)
+
 · [LinkedIn](https://www.linkedin.com/in/elisa-sbalchiero/)
+
 · Personal website *(coming soon)*
 
 
 ## Contact
 
-[elisa.sbalchiero@unimi.it](mailto:elisa.sbalchiero@unimi.it)  
+[elisa.sbalchiero@unimi.it](mailto:elisa.sbalchiero@unimi.it)
+[elisa.sbalchiero@sciencespo.fr](mailto:elisa.sbalchiero@sciencespo.fr)  
 
 University of Milan;
-Graduate School in Social and Political Sciences  
+
+Graduate School in Social and Political Sciences;
+
+Via Pace, 20122, Milan.
 
