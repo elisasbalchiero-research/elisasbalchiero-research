@@ -1,17 +1,17 @@
 # Elisa Sbalchiero
 
-**PhD Researcher in Quantitative Sociology (ERC-CoG research project EDUPOL - EDULab research group)**  
-
-*PhD in Sociology and Methodology of Social Research | University of Milan*
+**PhD Researcher in Quantitative Sociology (ERC-CoG research project EDUPOL - EDULab research group)**  at the University of Milan.
+**Visiting PhD Researcher at the Centre for Research on Social Inequalities (CRIS), Sciences Po** (from Oct. '26 until Feb. '27)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I am a PhD researcher at the Graduate School in Social and Political Sciences, University of Milan. My research focuses on educational inequalities, drawing on the sociological field of social stratification and mobility, as well as on educational reforms and school-level interventions. My work also engages with the comparative social policy, education systems, and social investment literature, with particular attention to inequalities associated with students’ social and migration backgrounds.
+I am a PhD researcher at the Graduate School in Social and Political Sciences, University of Milan. My research focuses on educational inequalities, drawing on the sociological field of social stratification and mobility, as well as on educational policies and school-level interventions.
+I'm specifically concerned with examining social inequality in cognitive skill development, acquisition, and in studying academic achievement disparities along the educational trajectory.
+I will also focus on civic competencies, the role of intercultural education, and the relationship between democracy and education, concerned with the potential emergence, persistence, or weakening of inequalities associated with students’ social and migration backgrounds.
+My current research investigates how school contexts, resources, and inclusive or targeted educational policies shape inequalities in educational opportunities and academic achievement, both in Italy and comparatively across European countries. Both the school and the national level will be considered.
 
-
-My current research investigates how school contexts, resources, and education policies shape inequalities in educational opportunities and academic achievement, both in Italy and comparatively across European countries.  
-
+Other research interests concern, on one hand, the school-to-work transition, early occupational outcomes, labour market entry, and overeducation and, on the other, the comparative study of education systems, social investment policies, and education reforms.  
 
 My methodological interests include quantitative methods for social science research, particularly longitudinal and multilevel methods.
 
