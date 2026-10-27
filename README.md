@@ -42,7 +42,7 @@ My methodological interests include quantitative methods for social science rese
 
 - "Can School Provisions Act as Equalizers? Investigating the Role of School Resources in Shaping Academic Achievement Inequalities by Social Background in Italian Primary Education" (solo-author)
   
-- "Supporting Academic Achievement Along the Educational Pathway: Unequal Learning Trajectories by Students’ Social and Migration Backgrounds and Targeted Interventions in Lower Secondary Education in Italy" (solo-author)
+- "Shaping Academic Achievement Along Educational Pathways: Unequal Learning Trajectories and Targeted Interventions in Italian Lower Secondary Education" (solo-author)
   
 
 ## Publications
