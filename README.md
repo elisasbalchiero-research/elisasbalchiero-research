@@ -72,11 +72,19 @@ In G. Salza & M. Triventi (Eds.), *Disuguaglianze di istruzione. Tendenze, mecca
 ## Contact
 
 [elisa.sbalchiero@unimi.it](mailto:elisa.sbalchiero@unimi.it)
-[elisa.sbalchiero@sciencespo.fr](mailto:elisa.sbalchiero@sciencespo.fr)  
 
 University of Milan;
 
 Graduate School in Social and Political Sciences;
 
-Via Pace, 20122, Milan.
+Via Pace 10, 20122 Milan.
+
+[elisa.sbalchiero@sciencespo.fr](mailto:elisa.sbalchiero@sciencespo.fr)  
+
+Sciences Po;
+
+Centre de Recherche sur les Inégalités Sociales;
+
+1 Place St-Thomas-d'Aquin, 75007 Paris.
+
 
