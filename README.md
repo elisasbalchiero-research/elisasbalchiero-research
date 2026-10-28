@@ -51,11 +51,10 @@ My methodological interests include quantitative methods for social science rese
 
 **Sbalchiero, E.**, Fedeli, E., & Triventi, M. (2026).  
 [Bridging or Widening the Gap? High School Resources and Achievement Gaps Across Migration Backgrounds in Italy](https://doi.org/10.1007/978-3-032-25346-0_9).  
-In O. Winkler & M. Olczyk (Eds.), *Educational Integration of Refugees and Newly Arrived Immigrants*. Springer.  
+In O. Winkler & M. Olczyk (Eds.), *Educational Integration of Refugees and Newly Arrived Immigrants: Institutional Contexts and Their Relevance* (pp. 193-224). Cham: Springer Nature Switzerland.
 
 **Sbalchiero, E.**, Fiasconaro, S., & Fedeli, E. (2026, forthcoming).
-[Percorsi formativi ed esiti scolastici delle prime e seconde generazioni in Italia](*forthcoming*).
-In G. Salza & M. Triventi (Eds.), *Disuguaglianze di istruzione. Tendenze, meccanismi e conseguenze*. Il Mulino.
+[Percorsi formativi ed esiti scolastici delle prime e seconde generazioni in Italia](*forthcoming*). In M. Triventi & G. Salza (Eds.),  *Disuguaglianze di istruzione. Tendenze, meccanismi e conseguenze* (pp. 163-190). Il Mulino.
 
 
 ## Links
